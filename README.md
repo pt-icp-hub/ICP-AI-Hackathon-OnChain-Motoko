@@ -120,6 +120,16 @@ actor {
 
 ---
 
+## 🔍 Going Further: Using LLM Canister as a Tooling Agent
+
+For those interested in building specialized AI agents on the Internet Computer, check out the **ICP Lookup Agent**, an example of using the LLM Canister for specific tasks like looking up ICP balances. This project showcases how to structure an AI agent to specialize in a particular function. 
+
+This is where you can unleash your creativity, imagining different tools that AI could use. Whether it’s financial data retrieval, smart contract interactions, or other domain-specific utilities, the possibilities are endless!
+
+🔗 **Check out the example here:** [ICP Lookup Agent Motoko](https://github.com/dfinity/llm/tree/main/examples/icp-lookup-agent-motoko)
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions! Feel free to open issues or pull requests to improve this template. Join the [IC Developer Community](https://forum.dfinity.org/) for discussions, updates, and collaboration.
