@@ -129,7 +129,7 @@ We welcome contributions! Feel free to open issues or pull requests to improve t
 ## 📚 Learn More
 
 - [LLM Canister Introduction Post](https://forum.dfinity.org/t/introducing-the-llm-canister-deploy-ai-agents-with-a-few-lines-of-code/41424)  
-- [Internet Computer Documentation](https://internetcomputer.org/docs/current/developer-docs/introduction)  
+- [Internet Computer Documentation](https://internetcomputer.org/docs/home)  
 - [Motoko Language Reference](https://internetcomputer.org/docs/current/developer-docs/build/languages/motoko)  
 
 ---
